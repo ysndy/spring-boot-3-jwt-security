@@ -12,7 +12,7 @@
 - H2
 
 ## 참고자료
-### 강의영상
+### 출처
 [https://www.youtube.com/watch?v=KxqlJblhzfI](https://www.youtube.com/watch?v=KxqlJblhzfI)
 ### JWT 소개
 [https://jwt.io/introduction](https://jwt.io/introduction)
