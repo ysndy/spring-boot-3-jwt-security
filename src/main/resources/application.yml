@@ -8,3 +8,8 @@ spring:
     hibernate:
       ddl-auto: create-drop
     show-sql: true
+
+jwt:
+  header: Authorization
+  secret: 4325153f40903178219a396cb52ed8b9a7cb5f6b5db5a1ff03110f7e33040b00
+  token-validity-in-seconds: 86400
